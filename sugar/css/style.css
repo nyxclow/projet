@@ -1,0 +1,127 @@
+#sec1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#sec2 {
+    background: url(../img/arton1008.png) no-repeat center center/cover;
+    height: 90vh;
+    text-align: center;
+    display: flex; 
+   
+    background-attachment: fixed;
+}
+.text{
+    font-size: 3rem;
+    position: absolute;
+    left: 50%;
+    padding: 15%;
+    color: red;
+    
+}
+.txt{
+    font-size: 2.5rem;
+    position: absolute;
+    left: 30%;
+    padding: 20%;
+    color:#000000;
+}
+#sec3 {
+    background: url(../img/home2Combined.png) no-repeat center center/cover;
+    height: 90vh;
+    width: 500px;
+    padding-right: 0%;
+    position: right;
+    text-align: center;
+    display: flex; 
+    align-items: center;
+    background-attachment: fixed;
+}
+#PL {
+
+    background: url(../img/home5.jpg) no-repeat center center/cover ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+#tet{
+    
+    position: relative;
+    left: 750px;
+}
+.h1{
+    font-size: 3rem;
+     margin: 0 ;
+    padding: 1px;
+    border-radius: 1px;
+    color: red;
+}
+.p{
+
+    font-size: 2rem;
+    
+    margin: 0 ;
+   padding: 1px;
+   
+   border-radius: 1px;
+   color: #000000;  
+}
+.pear{
+
+    font-size: 1.7rem;
+}
+.h{
+    font-size: 2rem;
+    text-align-last: center;
+}
+.op {
+    font-size: 4rem;
+    color: red;
+
+align-items: center;
+justify-content: center;
+display: flex;
+   
+}
+.po{
+
+    font-size: 1.5rem;
+    text-align-last: center;
+}
+#tt{
+   
+    background: url(../img/home4.jpg) no-repeat ;
+    height: 90vh;
+    width: 500px;
+    padding-left: 0%;
+    position: left;
+    text-align: center;
+    display: flex; 
+    align-items: center;
+    background-attachment: fixed;
+
+}
+#MM{
+   
+    background: url(../img/aa.jpg) no-repeat ;
+    height: 100vh;
+    width: 500px;
+    padding-right: 0%;
+    position: right;
+   
+    display: flex; 
+    align-items: center;
+    background-attachment: fixed;
+
+}
+.h2{
+    font-size: 3rem;
+    text-align-last: center;
+}
+
+
